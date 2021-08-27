@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "01Licencia",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/01Licencia",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 20
+    },
+    {
+      "name": "02Ordena",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/02Ordena",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "03BMI",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/03BMI",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "04Cuadrante",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/04Cuadrante",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "05Cuadratica",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/05Cuadratica",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    }
+  ]
+}
